@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b6da8ab-bbfb-4135-9b55-e31f66d3198a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part1/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part1/Main.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part1/Pathfinder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part2/Car.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part2/Pilot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part2/Sienna.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Nazmul_homework/hw_inheritancePolimorphism_part2/Tesla3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part1/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part1/Main.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part1/Pathfinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part2/Car.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/BasicTestScenario.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/DriverWrapperChrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/DriverWrapperFirefox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/DriverWrapperSafari.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/SampleTestNGScenarioChrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/SampleTestNGScenarioFirefox.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/SampleTestNGScenarioSafari.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/VerifyPageTitleChrome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/hw_hashmap/HashMapDemo.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +17,18 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="HashMapDemo.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hw_hashmap/HashMapDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -64,6 +56,8 @@
         <option value="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part2/Pathfinder.java" />
         <option value="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part2/Car.java" />
         <option value="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario/SampleTestNGScenarioSafari.java" />
+        <option value="$PROJECT_DIR$/src/collection/HashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/hw_hashmap/HashMapDemo.java" />
       </list>
     </option>
   </component>
@@ -114,6 +108,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nazmul_homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Nazmul_homework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hw_hashmap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -124,6 +136,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="collection" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/hw_selenium_BasicTestScenario" />
       <recent name="$PROJECT_DIR$/src/hw_inheritancePolimorphism_part2" />
@@ -402,7 +417,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1024" height="640" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -418,7 +433,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3156823" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32179227" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -705,6 +720,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hw_hashmap/HashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
           <folding />
         </state>
       </provider>
